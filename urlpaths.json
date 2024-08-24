@@ -1,0 +1,11 @@
+[
+    {
+
+        "path": "/jsonShort",
+        "url": "https://github.com/gophercises/urlshort"
+    },
+    {
+        "path": "/jsonShort-final",
+        "url": "https://github.com/gophercises/urlshort/tree/solution"
+    }
+]
